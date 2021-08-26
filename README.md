@@ -1,3 +1,3 @@
 # Python1
 Python001
-Basic control flow, variables
+Basic control flow, variables, data types 
